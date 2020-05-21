@@ -1,0 +1,14 @@
+﻿body {
+    margin: 0;
+    align-items: center;
+    background-color: gray;
+    background-position: center;
+}
+.pirma{
+    text-orientation:sideways-right;
+    background-color:lightgray;
+}
+.antra {
+    text-orientation: sideways-right;
+    background-color: black;
+}

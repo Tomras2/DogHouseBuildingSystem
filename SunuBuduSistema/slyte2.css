@@ -1,0 +1,7 @@
+﻿body {
+    margin: 0;
+    align-items: center;
+    /*background-image: url('Images/dog.jpg');*/
+    background-color: black;
+    background-position: center;
+}

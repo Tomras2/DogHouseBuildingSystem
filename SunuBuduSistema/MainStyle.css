@@ -1,0 +1,19 @@
+﻿body {
+    margin: 0;
+    align-items: center;
+    background-image: url('Images/background5.jpg');
+    background-repeat: no-repeat;
+    background-position:center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.login {
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    /*padding: 120px;*/
+    margin-top: 50px;
+    background-color: rgba(0,0,0,.7);
+    box-shadow: 10px 0px 20px 10px #000000;
+}
