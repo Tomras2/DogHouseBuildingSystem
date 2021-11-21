@@ -1,29 +1,16 @@
-# README #
+# Dog houses building system #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This is a forked from bitbucket KTU team project on creating a website using ASP.NET framework and C# programming language.
 
-### What is this repository for? ###
+## Technologies used
+Visual Studio 2019 (2017 or newer needed)
+C#
+ASP.NET
+Bootstrap 3
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+## In order to run the project ##
 
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+Run the project by either:
+* pressing Start without debugging or Start debugging in Visual Studio
+* or simply typing in terminal
+```dotnet run SunuBuduSistema.sln```
