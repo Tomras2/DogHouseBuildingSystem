@@ -3,10 +3,10 @@
 This is a forked from bitbucket KTU team project on creating a website using ASP.NET framework and C# programming language.
 
 ## Technologies used
-Visual Studio 2019 (2017 or newer needed)
-C#
-ASP.NET
-Bootstrap 3
+* Visual Studio 2019 (2017 or newer needed)
+* C#
+* ASP.NET
+* Bootstrap 3
 
 ## In order to run the project ##
 
